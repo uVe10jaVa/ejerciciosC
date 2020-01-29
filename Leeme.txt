@@ -1,0 +1,11 @@
+Ejercicio1 -> hola mundo
+Ejercicio2 -> Tipos de datos
+Ejercicio3 -> Estructuras de control - If
+Ejercicio4 -> Estructuras de control - If else
+Ejercicio5 -> Estructuras de control - Switch 
+Ejercicio6 -> 
+Ejercicio7 -> 
+Ejercicio8 -> Adivina el núm random. Núm oportunidades.
+Ejercicio9 -> Adivina el número. Do while. Sólo acaba cuando lo acierta
+Ejercicio10 -> Pedir numeros , introducirlos en el array
+Ejercicio11 -> Introducir valores en array. Sumarlos
